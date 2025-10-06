@@ -5,6 +5,6 @@ Este documento contiene un repaso práctico de los conceptos vistos en la **Unid
 Se abordan los principales métodos de **modelos basados en árboles** y sus variantes de ensamble, explorando tanto su aplicación práctica como sus fundamentos teóricos.
 
 ## 📁 Archivos disponibles  
-- [📄 Repaso en formato HTML](./Unidad2.html)  
+- [📄 Repaso en formato HTML](./Unidad02.html)  
 
 ✍️ **Recomendación:** Antes de resolver los ejercicios, repasa los apuntes de clase y asegúrate de comprender los conceptos de **sesgo y varianza**, así como las diferencias entre **bagging y boosting**, ya que son temas clave en esta unidad.
